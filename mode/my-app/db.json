@@ -1,0 +1,402 @@
+{
+    "newdeal" :[
+        {
+            "src": "https://cdn.modesens.com/availability/53902355?w=400",
+            "title": "MONCLER GRENOBLE",
+            "sub": "Ledi Hooded Color-block",
+            "rate": "632",
+            "st": "Compare 15 stores"
+        },
+       
+        {
+            "src": "https://cdn.modesens.com/availability/56830338?w=400",
+            "title":"MONCLER",
+    "sub":"Moscova Faux Fur-trimmed",
+    
+    "rate":"406",
+    "st":"Compare 12 stores"
+        },
+    
+        {
+            "src": "https://cdn.modesens.com/product/10881690_51?w=400",
+            "title":"BALMAIN",
+    "sub":"Double-breasted Black Viscose",
+    
+    "rate":"1146",
+    "st":"Compare 13 stores"
+        },
+    
+        {
+            "src": "https://cdn.modesens.com/product/3469145_255?w=400",
+            "title": "SAINT LAURENT",
+            "sub": "Leather Biker Jacket In Black",
+            "rate": "2639",
+            "st": "Compare 11 stores"
+        },
+        {
+            "src": "https://cdn.modesens.com/availability/58680698?w=400",
+            "title": "VALENTINO",
+            "sub": "Long Wool Wrap Coat With",
+            "rate": "2743",
+            "st": "Compare 15 stores"
+        },
+        {
+            "src": "https://cdn.modesens.com/availability/56340710?w=400",
+            "title": "KHAITE",
+            "sub": "Fullman Cropped Padded",
+            "rate": "740",
+            "st": "Compare 13 stores"
+        },
+        {
+            "src": "https://cdn.modesens.com/availability/54375340?w=400",
+            "title": "RAG & BONE",
+            "sub": "Icon Andrea Zip-front Leather",
+            "rate": "679",
+            "st": "Compare 6 stores"
+        },
+        {
+            "src": "https://cdn.modesens.com/product/22342103_107?w=400",
+            "title": "TOTÊME",
+            "sub": "Signature Wool And Cashmere-",
+            "rate": "878",
+            "st": "Compare 6 stores"
+        }
+        
+        ],
+        "trending" :[
+            {
+                "src": "https://cdn.modesens.com/availability/55784063?w=400",
+                "title": "SAINT LAURENT",
+                "sub": "Leather Biker Jacket In Black",
+                "rate": "2639",
+                "st": "Compare 11 stores"
+            },
+            {
+                "src": "https://cdn.modesens.com/availability/53982490?w=400",
+                "title": "DOLCE & GABBANA",
+                "sub": "Dg Pop Leather Ankle Boots In Black",
+                "rate": "644",
+                "st": "Compare 9 stores"
+            },
+            {
+                "src": "https://cdn.modesens.com/availability/45835347?w=400",
+                "title": "GANNI",
+                "sub": "Ganni Sky Captain Single-breasted Corduroy Jacket In Blu",
+                "rate": "190",
+                "st": "Compare 5 stores"
+            },
+            {
+                "src": "https://cdn.modesens.com/product/46762388_2?w=400",
+                "title":  "BALMAIN",
+                "sub": "Double-breasted Black Viscose Blazer",
+        
+                "rate": "1146",
+                "st": "Compare 13 stores"
+            },
+            {
+                "src": "https://cdn.modesens.com/availability/58475510?w=400",
+                "title": "MONCLER",
+                "sub": "Moscova Faux Fur-trimmed Leather Ankle Boots In Black",
+        
+                "rate": "406",
+                "st": "Compare 12 stores"
+            },
+            {
+                "src": "https://cdn.modesens.com/product/18412404_177?w=400",
+                "title":  "GRENOBLE",
+                "sub": "Ledi Hooded Color-block Quilted Shell Down Jacket In Multi-colored",
+        
+                "rate": "632",
+                "st": "Compare 15 stores"
+            },
+            {
+                "src": "https://cdn.modesens.com/availability/56317619?w=400",
+                "title":   "MONCLER",
+                "sub": "Black Carinne Lace-up Boots",
+        
+                "rate": "512",
+                "st": "Compare 5 stores"
+            },
+            {
+                "src": "https://cdn.modesens.com/availability/53101621?w=400",
+                "title":   "DOLCE & GABBANA",
+                "sub": "Dg Pop Leather Ankle Boots In Black",
+        
+                "rate": "644",
+                "st": "Compare 9 stores"
+            }
+           
+           
+            
+            ],
+            "beauty":[
+                {
+                     "id":"0",
+                    "src":"https://cdn.modesens.com/product/6678065_76?w=400&",
+                    "title":"SISLEY PARIS ",
+                    "sub":"Black rose precious Face oil 25ml/0.84oz",
+                    "rate":"200",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"1",
+                    "src":"https://n.nordstrommedia.com/id/sr3/d2996d5b-6196-42db-b401-c7032c0b90a8.jpeg?w=780&h=838",
+                    "title":"SISLEY PARIS ",
+                    "sub":"soapless Gentle Foaming Cleaning, 85G",
+                    "rate":"100",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"2",
+                    "src":"https://n.nordstrommedia.com/id/sr3/d4522742-c93b-483e-b2af-ff01f1704573.jpeg?w=780&h=838",
+                    "title":"SISLEY PARIS ",
+                    "sub":"Sisley-pairs velvet Nourishing Cream ",
+                    "rate":"110",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"3",
+                    "src":"https://n.nordstrommedia.com/id/sr3/464f00db-8256-4d70-895b-1b8f0e9a65f4.jpeg?w=780&h=838",
+                    "title":"SISLEY PARIS ",
+                    "sub":"Sisley blush Brush, Women's in White",
+                    "rate":"170",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"4",
+                    "src":"https://cdn.modesens.com/product/20609416_27?w=400&",
+                    "title":"CHARLOTTE TILBURY",
+                    "sub":"The Air-brush kabuki Bronzing Brush In",
+                    "rate":"35",
+                        "type":"womens",
+                        "st":10
+        
+                },
+                {
+                  "id":"5",
+                    "src":"https://cdn.modesens.com/product/20950740_22?w=400&",
+                    "title":"SISLEY PARIS",
+                    "sub":"Sisly- paris Triple oil Balm Make-up",
+                    "rate":"99",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"6",
+                    "src":"https://cdn.modesens.com/product/6678166_58?w=400&",
+                    "title":"SISLEY PARIS",
+                    "sub":"5.O Oz Sisleya Essential Skin Care Lotion In",
+                    "rate":"180",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"7",
+                    "src":"https://cdn.modesens.com/product/6291076_15?w=400&",
+                    "title":"SISLEY PARIS",
+                    "sub":"Instant eclat Instant Glow Primer 30ml In",
+                    "rate":"78",
+                        "type":"womens",
+                        "st":10
+        
+                },
+                {
+                  "id":"8",
+                    "src":"https://n.nordstrommedia.com/id/sr3/ec9d7940-9983-47f6-98a5-8b32cf43628e.jpeg?w=780&h=838",
+                    "title":"SISLEY PARIS",
+                    "sub":"Sisley-paris Sisleya l'integral Anti-age Hand",
+                    "rate":"120",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"9",
+                    "src":"https://cdn.modesens.com/product/6288523_25?w=400&",
+                    "title":"SISLEY PARIS",
+                    "sub":"Sisley-paris Eau Du soir Perfumed Bath And",
+                    "rate":"60",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"10",
+                    "src":"https://cdn.modesens.com/product/6701621_48?w=400&",
+                    "title":"BOBBI BROWN",
+                    "sub":"Eye Shodow Brush In White",
+                    "rate":"37",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"11",
+                    "src":"https://cdn.modesens.com/product/6711226_43?w=400&",
+                    "title":"SHISEIDo",
+                    "sub":"Future solution Lx Concentrated Balancing",
+                    "rate":"130",
+                    "st":10,
+                    "type":"womens"
+                },
+                {
+                  "id":"12",
+                    "src":"https://cdn.modesens.com/product/13176593_54?w=400&",
+                    "title":"BOBBI BROWN",
+                    "sub":"Hydrating Eye Cream, 15ml-one Size in",
+                    "rate":"56",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"13",
+                    "src":"https://cdn.modesens.com/product/6688824_54?w=400&",
+                    "title":"SISLEY PARIS",
+                    "sub":"Super Soni Self Tanning Hydrating Facial ",
+                    "rate":"112",
+                        "type":"womens",
+                        "st":10
+        
+                },
+                {
+                  "id":"14",
+                    "src":"https://cdn.modesens.com/product/6701641_48?w=400&",
+                    "title":"SISLEY PARIS",
+                    "sub":"Sisley-paris Retractable kabuki Brush In ",
+                    "rate":"80",
+                    "st":8,
+                    "type":"womens"
+                  },
+                {
+                  "id":"15",
+                    "src":"https://www.net-a-porter.com/variants/images/665933304264224/in/w1000.jpg",
+                    "title":"CHARLOTTE TILBURY",
+                    "sub":"full Fat Lashes Maskara- Colour Glossy",
+                    "rate":"29",
+                        "type":"womens",
+                        "st":12
+        
+                },
+                {
+                  "id":"16",
+                    "src":"https://cdn.modesens.com/product/6718376_52?w=400&",
+                    "title":"KIEHL'S SINCE 1851",
+                    "sub":"1851 Ginger Leaf & Hibiscus Firming Mask",
+                    "rate":"23",
+                    "st":7,
+                    "type":"womens"
+                  },
+                {
+                  
+                  
+                  "id":"17",
+                    "src":"https://cdn.modesens.com/product/6710063_42?w=400&",
+                    "title":"KIEHL'S SINCE 1851",
+                    "sub":"1851 Dermatologiest Solutions Clearly",
+                    "rate":"27",
+                    "st":7,
+                    "type":"womens"
+                  },
+                {
+                  "id":"18",
+                    "src":"https://cdn.modesens.com/product/6718025_52?w=400&",
+                    "title":"SHISEIDO",
+                    "sub":"Refreshing Cleaning Water 6 0z/180 ml In",
+                    "rate":"38",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"19",
+                    "src":"https://www.net-a-porter.com/variants/images/2499567819045494/in/w1000.jpg",
+                    "title":"CHARLOTTE TILBURY",
+                    "sub":"Luxury Pallet Vintage Vampo Color  ",
+                    "rate":"53",
+                    "st":6,
+                    "type":"womens"
+                  },
+                {
+                  "id":"20",
+                    "src":"https://cdn.modesens.com/product/6683336_39?w=400&",
+                    "title":"BOBBY BROWN",
+                    "sub":"Crushed Lip color Lipstick in sunset",
+                    "rate":"33",
+                    "st":6,
+                    "type":"womens"
+                  },
+                {
+                  "id":"21",
+                    "src":"https://www.net-a-porter.com/variants/images/665933301173613/in/w1000.jpg",
+                    "title":"CHARLOTTE TILBURY",
+                    "sub":"Multi Miracle Glow Cleaner, Mask Balm",
+                    "rate":"60",
+                    "st":7,
+                    "type":"womens"
+                  },
+                {
+                  "id":"22",
+                    "src":"https://cdn.modesens.com/product/7878846_43?w=400&",
+                    "title":"ANASTASIA BEVERLY HILLS",
+                    "sub":"Sun Dipped Glow kit- Sun Dipped In",
+                    "rate":"47",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"23",
+                    "src":"https://cdn.modesens.com/product/10301325_26?w=400&",
+                    "title":"SHISEIDO",
+                    "sub":"Future Soluton Lx Total Protective Emulsion",
+                    "rate":"265",
+                    "st":6,
+                    "type":"womens"
+                  },
+                {
+                  "id":"24",
+                    "src":"https://cdn.modesens.com/product/10859503_36?w=400&",
+                    "title":"SHISEIDO",
+                    "sub":"White lucent anti Dark Circles Eye Cream",
+                    "rate":"65",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"25",
+                    "src":"https://cdn.modesens.com/product/19566419_19?w=400&",
+                    "title":"GUCCI",
+                    "sub":"Crayan Definition Sourcils- Powder Eyebro",
+                    "rate":"35",
+                    "st":6,
+                    "type":"womens"
+                  },
+                {
+                  "id":"26",
+                    "src":"https://cdn.modesens.com/media/55116905",
+                    "title":"ANASTASIA BEVERLY HILLS",
+                    "sub":"Precesion Tweenzers in N,a",
+                    "rate":"29",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"27",
+                    "src":"https://cdn.modesens.com/product/6686675_62?w=400&",
+                    "title":"BOBBY BROWN",
+                    "sub":"Beach Fragrance 1.7 Oz /50 ml",
+                    "rate":"80",
+                    "st":9,
+                    "type":"womens"
+                  },
+                {
+                  "id":"28",
+                    "src":"https://cdn.modesens.com/product/12767140_55?w=400&",
+                    "title":"ANASTASIA BEVERLY HILLS",
+                    "sub":"Mini Eye Primer 0.24 FI Oz /7 ml In No Color ",
+                    "rate":"16",
+                    "st":6,
+                    "type":"womens"
+                  }
+        
+            ]
+  }

@@ -1,0 +1,104 @@
+.mainbox {
+  margin-left: -45px;
+  margin-right:0px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.customercare>h3,p{
+  text-align: start;
+  line-height: 1px;
+}
+.Information>h3,p{
+  text-align: start;
+  line-height: 1px;
+}
+.Legal>h3,p{
+  text-align: start;
+  line-height: 1px;
+}
+.connect>h3,p{
+  text-align: start;
+  line-height: 1px;
+}
+
+.mainbox h3 {
+  font-weight: 600;
+  letter-spacing: 0.6px;
+  margin-bottom: 5px;
+}
+.mainbo {
+  color: gray;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+}
+.lowerborder {
+  margin-top: 2%;
+  border: 1px solid red;
+  background-color: black;
+  height: -5px;
+}
+.upperborder {
+  margin-top: 2%;
+  border: 1px solid red;
+  background-color: black;
+  height: 0px;
+}
+.leftside {
+  width: 2.5%;
+  height: 2.5%;
+  margin-left: 27px;
+}
+.contacticons {
+  /* height: 2%; */
+  height: 50px;
+}
+.adjust {
+  display: flex;
+  justify-content: start;
+  margin-left: 80px;
+  margin-top: 19px;
+}
+.rightside {
+  margin-left: 80%;
+  display: flex;
+  padding-right: -20px;
+
+
+  margin-top: -27px;
+  /* height: 100%; */
+}
+.News {
+  margin-left: 20px;
+  /* margin-bottom: 25px; */
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+}
+.News form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.email {
+  border-bottom: 1px solid black;
+  margin: auto;
+  margin: 10px 0;
+  padding: 5px;
+}
+.email:focus {
+  outline: none;
+}
+.inputSubmit {
+  background-color: transparent;
+  border: 1px solid black;
+  padding: 8px 65px;
+  margin-top: 10px;
+}
+.hrTag {
+  border-bottom: 1px solid black;
+  margin: auto;
+  margin-bottom: 20px;
+  width: 96%;
+}
